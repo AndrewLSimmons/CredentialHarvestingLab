@@ -11,7 +11,7 @@ The Credential Harvesting Lab requires the use of a Kali Linux virtual machine t
 
 <h2>Environments Used </h2>
 
-- <b>Kali Linux</b> (21H2)
+- <b>Kali Linux</b>
 
 <h2>Program walk-through:</h2>
 

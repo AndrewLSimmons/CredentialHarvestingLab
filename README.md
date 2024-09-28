@@ -22,8 +22,8 @@ The Credential Harvesting Lab requires the use of a Kali Linux virtual machine t
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>Launch the utility: </h3><br/>
+
 <br />
 <br />
 Select the disk:  <br/>

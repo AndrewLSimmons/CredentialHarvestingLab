@@ -27,7 +27,7 @@ Boot up Kali Linux virtual machine and login to virtual machine. After logging i
 <br />
 <b><i>sudo setoolkit</b</i>
 <br />
-![](Images/SudoSetoolkit.png)
+![](images/SudoSetoolkit.png)
 <br />
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

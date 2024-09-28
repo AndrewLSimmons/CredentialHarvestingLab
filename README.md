@@ -10,6 +10,7 @@ The Credential Harvesting Lab requires the use of a Kali Linux virtual machine t
 <li>Social-Engineer Toolkit (SET)</li>
 <ul><!-- start of nested list -->
  <li>sudo setoolkit</li>
+<li>ifconfig</li>
 </ul><!--end of nested list-->
 </li>
 </ul><!--end of main list -->

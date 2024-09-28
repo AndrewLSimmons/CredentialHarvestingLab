@@ -23,7 +23,8 @@ The Credential Harvesting Lab requires the use of a Kali Linux virtual machine t
 
 <p align="center">
 <h3>Step 1</h3><br/>
-Boot up Kali Linux virtual machine and login to virtual machine. After logging into Kali Linux virtual machine, open a terminal command window and start the Social Engineering Toolkit utility by typing the following command in the terminal: <b><i>sudo setoolkit</b</i>
+Boot up Kali Linux virtual machine and login to virtual machine. After logging into Kali Linux virtual machine, open a terminal command window and start the Social Engineering Toolkit utility by typing the following command in the terminal: 
+<b><i>sudo setoolkit</b</i>
 <br />
 <br />
 Select the disk:  <br/>
